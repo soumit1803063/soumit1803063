@@ -6,6 +6,60 @@
 - 🔭 I’m currently working on **Way-from-Plain-JAVA-to-SpringBoot** and learning backend technologies using FastAPI.
 - 🌐 I have experience in problem-solving and web technologies, along with a strong interest in machine learning applications.
 
+## Projects
+
+<div style="margin-bottom: 20px;">
+    <h3 style="color: #4CAF50;">Machine Learning & Data Science</h3>
+    <ul style="list-style-type: none; padding: 0;">
+        <li style="margin: 10px 0;">
+            <strong>Behavioral Profiling</strong>: Behavioral Profiling and Predictive Modeling Based on Weekly Activity and Demographics.<br>
+            <em>Languages Used: Python</em><br>
+            <a href="https://github.com/soumit1803063/Behavioral-Profiling" style="text-decoration: none; color: #2196F3;">View on GitHub</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <strong>NIFTI Processor</strong>: A tool for processing NIFTI images.<br>
+            <em>Languages Used: Python</em><br>
+            <a href="https://github.com/soumit1803063/NIFTI-Processor" style="text-decoration: none; color: #2196F3;">View on GitHub</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <strong>Parcel Counter</strong>: A project for counting parcels using computer vision.<br>
+            <em>Languages Used: Python</em><br>
+            <a href="https://github.com/soumit1803063/parcel-counter" style="text-decoration: none; color: #2196F3;">View on GitHub</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <strong>Augmentation 3D</strong>: Techniques for augmenting 3D data.<br>
+            <em>Languages Used: Python</em><br>
+            <a href="https://github.com/soumit1803063/Augmentation-3D" style="text-decoration: none; color: #2196F3;">View on GitHub</a>
+        </li>
+    </ul>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <h3 style="color: #4CAF50;">Backend Development</h3>
+    <ul style="list-style-type: none; padding: 0;">
+        <li style="margin: 10px 0;">
+            <strong>radio_ruet_signup_signin_backend</strong>: Backend for a signup/signin application using JavaScript.<br>
+            <a href="https://github.com/soumit1803063/radio_ruet_signup_signin_backend" style="text-decoration: none; color: #2196F3;">View on GitHub</a>
+        </li>
+    </ul>
+</div>
+
+<div>
+    <h3 style="color: #4CAF50;">Problem Solving & Competitive Programming</h3>
+    <ul style="list-style-type: none; padding: 0;">
+        <li style="margin: 10px 0;">
+            <strong>problem_solving</strong>: Solutions and codes in C++ for various problems.<br>
+            <em>Languages Used: C++</em><br>
+            <a href="https://github.com/soumit1803063/problem_solving" style="text-decoration: none; color: #2196F3;">View on GitHub</a>
+        </li>
+        <li style="margin: 10px 0;">
+            <strong>Assembly Solve</strong>: Solution code for some problems from previous exams.<br>
+            <em>Languages Used: Assembly</em><br>
+            <a href="https://github.com/soumit1803063/AssemblySolve" style="text-decoration: none; color: #2196F3;">View on GitHub</a>
+        </li>
+    </ul>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/soumit-das-a607642a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumit-das-a607642a7" height="30" width="40" /></a>
