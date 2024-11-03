@@ -10,7 +10,7 @@
 
 ### Computer Architecture
 - **[4-bit CPU](https://github.com/soumit1803063/4-bit-cpu)**  
-  - **Languages/Tools Used**: VHDL, Digital Logic, Circuit Design
+  - **Languages/Tools Used**: Digital Logic, Circuit Design
   - **Keywords**: Simulation, Digital Design, Hardware Architecture
 
 ### Computer Vision
@@ -24,18 +24,18 @@
 
 ### Research Work
 - **[CBAM-Enhanced Collaborative Network](https://github.com/1803063soumit/CBAM-Enhanced-Collaborative-Network)**  
-  - **Languages/Tools Used**: Keras, CBAM, DVC, Transfer Learning
-  - **Keywords**: Collaborative Learning, Feature Fusion, Medical Imaging
+  - **Languages/Tools Used**: Keras, CBAM, DVC
+  - **Keywords**: Collaborative Learning, Transfer Learning, Feature Fusion, Medical Imaging
   - **DOI**: [10.1109/ICAEEE62219.2024.10561843](https://doi.org/10.1109/ICAEEE62219.2024.10561843)
 
 ### Machine Learning
 - **[Behavioral Profiling](https://github.com/soumit1803063/Behavioral-Profiling)**  
   - **Languages/Tools Used**: Python, pandas, matplotlib, Regression Models
-  - **Keywords**: Profiling, Predictive Modeling, User Behavior Analysis
+  - **Keywords**: Profiling, Predictive Modeling, Feature Selection, Feature Engineering, Exploratory Data Analysis
 
 - **[Cyber Security (UNSW-NB15)](https://github.com/1803063soumit/UNSWNB15)**  
   - **Languages/Tools Used**: Python, Feature Engineering, Classification
-  - **Keywords**: Cyber Security, Anomaly Detection, Feature Selection
+  - **Keywords**: Cyber Security, Anomaly Detection, Feature Selection, Feature Engineering, Exploratory Data Analysis
 
 ### Raw Code
 - **[Problem Solving](https://github.com/soumit1803063/problem_solving)**  
