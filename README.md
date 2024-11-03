@@ -8,32 +8,65 @@
 
 ## 📂 Projects
 
-### Machine Learning & Data Science
+### Computer Architecture
+- **[4-bit CPU](https://github.com/soumit1803063/4-bit-cpu)**  
+  *Description*: Digital Simulation and Design from Scratch.
 
-- **Behavioral Profiling**: Behavioral Profiling and Predictive Modeling Based on Weekly Activity and Demographics.  
-  [View on GitHub](https://github.com/soumit1803063/Behavioral-Profiling) | *Languages Used*: Python
+### Computer Vision
+- **[Parcel Counter](https://github.com/soumit1803063/parcel-counter)**  
+  *Languages/Tools Used*: Python, YOLOv8x, DeepSORT, Re-Identification  
+  *Description*: A computer vision project that counts parcels using object detection and tracking techniques.
   
-- **NIFTI Processor**: A tool for processing NIFTI images.  
-  [View on GitHub](https://github.com/soumit1803063/NIFTI-Processor) | *Languages Used*: Python
+- **[Virtual Painting](https://github.com/soumit1803063/virtualpainting)**  
+  *Languages/Tools Used*: Python, OpenCV, MediaPipe, Tkinter  
+  *Description*: A GUI-based desktop application allowing virtual painting using hand gestures.
+
+### Research Work
+- **[CBAM-Enhanced Collaborative Network](https://github.com/1803063soumit/CBAM-Enhanced-Collaborative-Network)**  
+  *Languages/Tools Used*: CBAM, Transfer Learning, Collaborative Learning, Feature Fusion, DVC, BreakHis_v1 dataset, Keras  
+  *Description*: An advanced model for collaborative learning with feature fusion, utilizing the BreakHis_v1 dataset and DVC for effective data versioning and pipelining.  
+  *DOI*: [10.1109/ICAEEE62219.2024.10561843](https://doi.org/10.1109/ICAEEE62219.2024.10561843)
+
+### Machine Learning
+- **[Behavioral Profiling](https://github.com/soumit1803063/Behavioral-Profiling)**  
+  *Languages/Tools Used*: Python, pandas, matplotlib, Regression Models  
+  *Description*: Behavioral profiling and predictive modeling based on user activity and demographic features.
   
-- **Parcel Counter**: A project for counting parcels using computer vision.  
-  [View on GitHub](https://github.com/soumit1803063/parcel-counter) | *Languages Used*: Python
+- **[Cyber Security (UNSW-NB15)](https://github.com/1803063soumit/UNSWNB15)**  
+  *Languages/Tools Used*: Python, Feature Engineering, Classification  
+  *Description*: A machine learning project focusing on feature selection and classification for cyber security data.
+
+### Raw Code
+- **[Problem Solving](https://github.com/soumit1803063/problem_solving)**  
+  *Languages/Tools Used*: C++, Competitive Programming, Algorithms, Data Structures  
+  *Description*: A collection of solutions to competitive programming challenges and algorithm implementations.
   
-- **Augmentation 3D**: Techniques for augmenting 3D data.  
-  [View on GitHub](https://github.com/soumit1803063/Augmentation-3D) | *Languages Used*: Python
+- **[AI Searching Algorithms](https://github.com/soumit1803063/AI)**  
+  *Languages/Tools Used*: Python, AI Searching Algorithms  
+  *Description*: An assortment of AI search algorithms implemented in Python.
 
-### Backend Development
-
-- **radio_ruet_signup_signin_backend**: Backend for a signup/signin application using JavaScript.  
-  [View on GitHub](https://github.com/soumit1803063/radio_ruet_signup_signin_backend)
-
-### Problem Solving & Competitive Programming
-
-- **problem_solving**: Solutions and codes in C++ for various problems.  
-  [View on GitHub](https://github.com/soumit1803063/problem_solving) | *Languages Used*: C++
+### Web Development
+- **[Coders Arena](https://github.com/soumit1803063/Coders-Arena)**  
+  *Languages/Tools Used*: JavaScript, React, Node.js, Express.js, MongoDB  
+  *Description*: A full-stack web application built for coders to interact and share knowledge.
   
-- **Assembly Solve**: Solution code for some problems from previous exams.  
-  [View on GitHub](https://github.com/soumit1803063/AssemblySolve) | *Languages Used*: Assembly
+- **[Radio RUET Signup/Signin Backend](https://github.com/soumit1803063/radio_ruet_signup_signin_backend)**  
+  *Languages/Tools Used*: JavaScript, Express.js, MongoDB  
+  *Description*: Backend for user authentication using JavaScript and MongoDB.
+
+### Modular Coding
+- **[NIFTI Processor](https://github.com/soumit1803063/NIFTI-Processor)**  
+  *Languages/Tools Used*: Python, NIFTI Files  
+  *Description*: A modular tool to process and manipulate NIFTI medical image files.
+  
+- **[Augmentation 3D](https://github.com/soumit1803063/Augmentation-3D)**  
+  *Languages/Tools Used*: Python, 3D Image Augmentation  
+  *Description*: Various 3D data augmentation techniques including rotation, zoom, and noise addition.
+
+### Miscellaneous
+- **[Google Translator](https://github.com/soumit1803063/google_translator)**  
+  *Languages/Tools Used*: Python, googletrans, Tkinter  
+  *Description*: A simple desktop application for translation using Google’s translation API.
 
 ## 🌐 Connect with Me
 
@@ -75,60 +108,7 @@
 ### Machine Learning & Data Science
 
 <p align="left">
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
-</p>
-
-### Deployment & Version Control
-
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
-</p>
-
-### Operating Systems
-
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=soumit1803063&show_icons=true&theme=tokyonight" alt="Soumit's GitHub stats" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumit1803063&theme=tokyonight" alt="GitHub Streak" width="400"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumit1803063&layout=compact&theme=tokyonight" alt="Top Languages" width="400"/>
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=soumit1803063&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" width="100%"/>
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=soumit1803063&theme=tokyo-night" alt="Contribution Graph" width="100%"/>
-</p>
-
-### 🚀 GitHub Profile Summary Card
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumit1803063&theme=tokyonight" width="100%" alt="Profile Summary Card"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soumit1803063&theme=tokyonight" width="400" alt="Repos Per Language"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumit1803063&theme=tokyonight" width="400" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soumit1803063&theme=tokyonight" width="400" alt="Stats"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soumit1803063&theme=tokyonight&utcOffset=8" width="400" alt="Productive Time"/>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/> </a>
 </p>
