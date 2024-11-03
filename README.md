@@ -10,63 +10,64 @@
 
 ### Computer Architecture
 - **[4-bit CPU](https://github.com/soumit1803063/4-bit-cpu)**  
-  *Description*: Digital Simulation and Design from Scratch.
+  - **Languages/Tools Used**: VHDL, Digital Logic, Circuit Design
+  - **Keywords**: Simulation, Digital Design, Hardware Architecture
 
 ### Computer Vision
 - **[Parcel Counter](https://github.com/soumit1803063/parcel-counter)**  
-  *Languages/Tools Used*: Python, YOLOv8x, DeepSORT, Re-Identification  
-  *Description*: A computer vision project that counts parcels using object detection and tracking techniques.
-  
+  - **Languages/Tools Used**: Python, YOLOv8x, DeepSORT, Re-Identification
+  - **Keywords**: Object Detection, Tracking, Computer Vision
+
 - **[Virtual Painting](https://github.com/soumit1803063/virtualpainting)**  
-  *Languages/Tools Used*: Python, OpenCV, MediaPipe, Tkinter  
-  *Description*: A GUI-based desktop application allowing virtual painting using hand gestures.
+  - **Languages/Tools Used**: Python, OpenCV, MediaPipe, Tkinter
+  - **Keywords**: Hand Gesture Recognition, GUI, Image Processing
 
 ### Research Work
 - **[CBAM-Enhanced Collaborative Network](https://github.com/1803063soumit/CBAM-Enhanced-Collaborative-Network)**  
-  *Languages/Tools Used*: CBAM, Transfer Learning, Collaborative Learning, Feature Fusion, DVC, BreakHis_v1 dataset, Keras  
-  *Description*: An advanced model for collaborative learning with feature fusion, utilizing the BreakHis_v1 dataset and DVC for effective data versioning and pipelining.  
-  *DOI*: [10.1109/ICAEEE62219.2024.10561843](https://doi.org/10.1109/ICAEEE62219.2024.10561843)
+  - **Languages/Tools Used**: Keras, CBAM, DVC, Transfer Learning
+  - **Keywords**: Collaborative Learning, Feature Fusion, Medical Imaging
+  - **DOI**: [10.1109/ICAEEE62219.2024.10561843](https://doi.org/10.1109/ICAEEE62219.2024.10561843)
 
 ### Machine Learning
 - **[Behavioral Profiling](https://github.com/soumit1803063/Behavioral-Profiling)**  
-  *Languages/Tools Used*: Python, pandas, matplotlib, Regression Models  
-  *Description*: Behavioral profiling and predictive modeling based on user activity and demographic features.
-  
+  - **Languages/Tools Used**: Python, pandas, matplotlib, Regression Models
+  - **Keywords**: Profiling, Predictive Modeling, User Behavior Analysis
+
 - **[Cyber Security (UNSW-NB15)](https://github.com/1803063soumit/UNSWNB15)**  
-  *Languages/Tools Used*: Python, Feature Engineering, Classification  
-  *Description*: A machine learning project focusing on feature selection and classification for cyber security data.
+  - **Languages/Tools Used**: Python, Feature Engineering, Classification
+  - **Keywords**: Cyber Security, Anomaly Detection, Feature Selection
 
 ### Raw Code
 - **[Problem Solving](https://github.com/soumit1803063/problem_solving)**  
-  *Languages/Tools Used*: C++, Competitive Programming, Algorithms, Data Structures  
-  *Description*: A collection of solutions to competitive programming challenges and algorithm implementations.
-  
+  - **Languages/Tools Used**: C++, Competitive Programming
+  - **Keywords**: Algorithms, Data Structures, Optimization
+
 - **[AI Searching Algorithms](https://github.com/soumit1803063/AI)**  
-  *Languages/Tools Used*: Python, AI Searching Algorithms  
-  *Description*: An assortment of AI search algorithms implemented in Python.
+  - **Languages/Tools Used**: Python
+  - **Keywords**: Search Algorithms, Artificial Intelligence, Pathfinding
 
 ### Web Development
 - **[Coders Arena](https://github.com/soumit1803063/Coders-Arena)**  
-  *Languages/Tools Used*: JavaScript, React, Node.js, Express.js, MongoDB  
-  *Description*: A full-stack web application built for coders to interact and share knowledge.
-  
+  - **Languages/Tools Used**: JavaScript, React, Node.js, Express.js, MongoDB
+  - **Keywords**: Full-Stack Development, Social Networking, MERN Stack
+
 - **[Radio RUET Signup/Signin Backend](https://github.com/soumit1803063/radio_ruet_signup_signin_backend)**  
-  *Languages/Tools Used*: JavaScript, Express.js, MongoDB  
-  *Description*: Backend for user authentication using JavaScript and MongoDB.
+  - **Languages/Tools Used**: JavaScript, Express.js, MongoDB
+  - **Keywords**: Authentication, API, Backend Development
 
 ### Modular Coding
 - **[NIFTI Processor](https://github.com/soumit1803063/NIFTI-Processor)**  
-  *Languages/Tools Used*: Python, NIFTI Files  
-  *Description*: A modular tool to process and manipulate NIFTI medical image files.
-  
+  - **Languages/Tools Used**: Python, NIFTI Files
+  - **Keywords**: Medical Imaging, Image Processing, Data Manipulation
+
 - **[Augmentation 3D](https://github.com/soumit1803063/Augmentation-3D)**  
-  *Languages/Tools Used*: Python, 3D Image Augmentation  
-  *Description*: Various 3D data augmentation techniques including rotation, zoom, and noise addition.
+  - **Languages/Tools Used**: Python, 3D Image Processing
+  - **Keywords**: Data Augmentation, Rotation, Scaling, Noise
 
 ### Miscellaneous
 - **[Google Translator](https://github.com/soumit1803063/google_translator)**  
-  *Languages/Tools Used*: Python, googletrans, Tkinter  
-  *Description*: A simple desktop application for translation using Google’s translation API.
+  - **Languages/Tools Used**: Python, googletrans, Tkinter
+  - **Keywords**: Translation, GUI Application, NLP
 
 ## 🌐 Connect with Me
 
@@ -109,6 +110,17 @@
 
 <p align="left">
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/> </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soumit1803063&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumit1803063&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumit1803063&layout=compact&theme=radical" alt="Top Languages" />
 </p>
