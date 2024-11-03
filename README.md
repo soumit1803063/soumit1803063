@@ -2,7 +2,7 @@
 
 🎓 **Education**  
 &nbsp;&nbsp;&nbsp;&nbsp;**Bachelor of Science** in **Computer Science & Engineering**  
-&nbsp;&nbsp;&nbsp;&nbsp;**Rajshahi University of Engineering & Technology (RUET)**, Bangladesh  
+&nbsp;&nbsp;&nbsp;&nbsp;**Rajshahi University of Engineering & Technology (RUET), Bangladesh***  
 &nbsp;&nbsp;&nbsp;&nbsp;**CGPA:** 3.55  
 
 🌎 **Languages**  
