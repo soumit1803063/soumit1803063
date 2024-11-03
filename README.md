@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Soumit Das</h1>
-<h3 align="center">A Problem Solver, Backend Developer, and Machine Learning Researcher from Bangladesh</h3>
+<h1 align="center">Hi, I'm <b>Soumit Das</b></h1>
 
-- 🎓 Graduated with a BSc in Computer Science & Engineering from Rajshahi University of Engineering & Technology, Bangladesh, with a **CGPA of 3.55**.
-- 📚 Achieved an overall **IELTS score of 7.00**.
-- 🔭 Currently working on **Way-from-Plain-JAVA-to-SpringBoot** and learning backend technologies with FastAPI.
-- 🌐 Strong interest in problem-solving, web technologies, and machine learning applications.
+🎓 **Education**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Bachelor of Science** in **Computer Science & Engineering**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Rajshahi University of Engineering & Technology (RUET)**, Bangladesh  
+&nbsp;&nbsp;&nbsp;&nbsp;**CGPA:** 3.55  
+
+🌎 **Languages**  
+&nbsp;&nbsp;&nbsp;&nbsp;**Bengali** (Native), **English** (Proficient) — **IELTS Score:** 7.0
+
+🔭 **Current Work**  
+&nbsp;&nbsp;&nbsp;&nbsp;Focused on transitioning from **Plain JAVA to SpringBoot** and advancing backend development skills with **FastAPI**
+
+🌐 **Interests**  
+&nbsp;&nbsp;&nbsp;&nbsp;Keen interest in **problem-solving**, **web technologies**, and **machine learning** applications
+
 
 ## 📂 Projects
 
