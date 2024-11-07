@@ -22,7 +22,11 @@
 - **[4-bit CPU](https://github.com/soumit1803063/4-bit-cpu)**  
   - **Languages/Tools Used**: Digital Logic, Circuit Design
   - **Keywords**: Simulation, Digital Design, Hardware Architecture
-
+### LLM
+- **[LLM-JobScout](https://github.com/soumit1803063/LLM-JobScout)**  
+  - **Live Link**: [llm-jobscout-h2agdm9r2bspabr8ssguy9.streamlit.app](https://llm-jobscout-h2agdm9r2bspabr8ssguy9.streamlit.app/)
+  - **Languages/Tools Used**: Python, LLAMA-3, LangChain, Streamlit, GroqCloud
+  - **Keywords**: LLM, Prompt Engineering, Deployment
 ### Computer Vision
 - **[Parcel Counter](https://github.com/soumit1803063/parcel-counter)**  
   - **Languages/Tools Used**: Python, YOLOv8x, DeepSORT, Re-Identification
