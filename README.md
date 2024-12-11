@@ -27,7 +27,15 @@
   - **Live Link**: [llm-jobscout-h2agdm9r2bspabr8ssguy9.streamlit.app](https://llm-jobscout-h2agdm9r2bspabr8ssguy9.streamlit.app/)
   - **Languages/Tools Used**: Python, LLAMA-3, LangChain, Streamlit, GroqCloud
   - **Keywords**: LLM, Prompt Engineering, Deployment
+    
+- **[LLAMA-Finetune-Question-Answering](https://github.com/soumit1803063/LLAMA-Finetune-Question-Answerin)**  
+  - **Languages/Tools Used**: Python, Pytorch, LLAMA-2, Hugging Face, Chroma, 
+  - **Keywords**: LLM, LLAMA-2, QA, Finetune
 ### Computer Vision
+- **[Finetune-Image-to-Image-Stable-Diffusion](https://github.com/soumit1803063/Finetune-Image-to-Image-Stable-Diffusion)**  
+  - **Languages/Tools Used**: Python, Hugging Face, DreamBooth, CompVis/stable-diffusion-v1-4
+  - **Keywords**: Stable Diffusion, Finetune
+    
 - **[Parcel Counter](https://github.com/soumit1803063/parcel-counter)**  
   - **Languages/Tools Used**: Python, YOLOv8x, DeepSORT, Re-Identification
   - **Keywords**: Object Detection, Tracking, Computer Vision
