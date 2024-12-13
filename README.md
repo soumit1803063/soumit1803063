@@ -28,7 +28,7 @@
   - **Languages/Tools Used**: Python, LLAMA-3, LangChain, Streamlit, GroqCloud
   - **Keywords**: LLM, Prompt Engineering, Deployment
     
-- **[LLAMA-Finetune-Question-Answering](https://github.com/soumit1803063/LLAMA-Finetune-Question-Answerin)**  
+- **[LLAMA-Finetune-Question-Answering](https://github.com/soumit1803063/LLAMA-Finetune-Question-Answering)**  
   - **Languages/Tools Used**: Python, Pytorch, LLAMA-2, Hugging Face, Chroma, 
   - **Keywords**: LLM, LLAMA-2, QA, Finetune
 ### Computer Vision
