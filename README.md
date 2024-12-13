@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**CGPA:** 3.55  
 
 🌎 **Languages**  
-&nbsp;&nbsp;&nbsp;&nbsp;**Bengali** (Native), **English** (Proficient) — **IELTS Score:** 7.0
+&nbsp;&nbsp;&nbsp;&nbsp;**Bengali** (Native), **English** (Proficient)
 
 🔭 **Current Work**  
 &nbsp;&nbsp;&nbsp;&nbsp;Focused on transitioning from **Plain JAVA to SpringBoot**  
