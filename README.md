@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Bengali** (Native), **English** (Proficient)
 
 🔭 **Current Work**  
-&nbsp;&nbsp;&nbsp;&nbsp;Focused on transitioning from **Plain JAVA to SpringBoot**  
+&nbsp;&nbsp;&nbsp;&nbsp;Focused on **Generative AI**  
 &nbsp;&nbsp;&nbsp;&nbsp;Advancing backend development skills with **FastAPI**
 
 🌐 **Interests**  
